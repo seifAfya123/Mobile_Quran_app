@@ -5,7 +5,6 @@ class TasbehTab extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       color: Colors.orange,
-      child: const Text("abdo al tota"),
     );
   }
 }
