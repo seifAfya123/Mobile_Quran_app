@@ -8,10 +8,16 @@
   "ahadeth": "الأحاديث",
   "language": "اللغه",
   "theme": "الالوان",
-  
+  "tasbeh": "السبحه",
   "arabic": "العربيه",
   "light": "مضيئ",
-  "dark": "مظلم"
+  "dark": "مظلم",
+  "sobhanallah": "سبحان الله",
+  "elhmdulah": "الحمد لله",
+  "laelahelaallah": "لا الهه الا الله",
+  "addtsbehat":"عدد التسبيحات"
+
+  
 
 
 

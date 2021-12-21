@@ -8,8 +8,13 @@
   "ahadeth": "Ahadeth",
   "language": "Language",
   "theme": "Theme",
- 
+  "tasbeh": "Sebha",
   "arabic": "Arabic",
   "light": "Light",
-  "dark": "Dark"
+  "dark": "Dark",
+  "sobhanallah": "Sobhan allah",
+  "elhmdulah": "Elhmdulah",
+  "laelahelaallah": "la elah ela allah",
+  "addtsbehat":"Number of tashbehat"
+  
 }
