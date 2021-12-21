@@ -172,7 +172,7 @@ class _TasbehTabState extends State<TasbehTab> {
     setState(() {
       _settext();
       _tasbeh_count++;
-      _angle += 33 * (pi / 180);
+      _angle += (360 / 33) * pi / 180;
     });
   }
 }
