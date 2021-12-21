@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     AppConfigProvider provider = Provider.of<AppConfigProvider>(context);
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       locale: Locale(provider.appLanguage),
       title: 'islami',
       theme: MyThemeData.lightTheme,
